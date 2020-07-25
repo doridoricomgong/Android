@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".JoinActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:gravity="center"
+            android:text="ID"
+            android:textSize="20dp"/>
+        <EditText
+            android:id="@+id/joinid"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:hint="input ID..."/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:gravity="center"
+            android:text="PWD"
+            android:textSize="20dp"/>
+        <EditText
+            android:id="@+id/joinpwd"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:hint="input PASSWD..."/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:gravity="center"
+            android:text="PWD check"
+            android:textSize="20dp"/>
+        <EditText
+            android:id="@+id/joinpwdcheck"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:hint="reinput PASSWD..."/>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:text="Join"/>
+</LinearLayout>
