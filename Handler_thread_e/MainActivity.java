@@ -96,7 +96,6 @@ public class MainActivity extends AppCompatActivity {
                     count2++;
                     break;
                 default:
-                    Toast.makeText(getApplicationContext(), "fuck",Toast.LENGTH_LONG).show();
             }
         }
     }
