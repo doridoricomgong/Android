@@ -1,4 +1,4 @@
 안드로이드에서 현재 시간을 가져오는 예제
 
 자세한 설명
-limjunho.github.io
+https://limjunho.github.io/2020/08/05/Android-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%ED%98%84%EC%9E%AC%EC%8B%9C%EA%B0%84.md-%EB%B3%B5%EC%82%AC%EB%B3%B8.html#3-%EB%82%A0%EC%A7%9C-%EC%8B%9C%EA%B0%84%EB%93%B1-%EC%9B%90%ED%95%98%EB%8A%94-%ED%98%95%ED%83%9C%EB%A1%9C-%EB%B0%94%EA%BE%B8%EA%B8%B0
