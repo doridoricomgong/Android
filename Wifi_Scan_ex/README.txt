@@ -7,4 +7,4 @@ ScrollView를 사용하여 스캔한 AP의 정보를 모두 볼 수 있게 하�
 https://developer.android.com/guide/topics/connectivity/wifi-scan?hl=ko
 
 정리글
-limjunho.github.io
+https://limjunho.github.io/2020/08/05/Android-Wifi-Scan.html
