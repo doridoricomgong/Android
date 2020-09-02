@@ -25,7 +25,7 @@ import android.widget.Toast;
 import java.io.File;
 
 public class MainActivity extends AppCompatActivity {
-    final String DOWNLOADURL = "http://203.250.32.83/Smart-AP/video.mp4";
+    final String DOWNLOADURL = "";
 
     boolean isthread = true;
 

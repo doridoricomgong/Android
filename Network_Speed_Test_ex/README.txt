@@ -5,4 +5,4 @@ DownloadManager정리글
 https://limjunho.github.io/2020/09/02/DownloadManager.html
 
 예제 설명 정리글
-https://limjunho.github.io/2020/09/02/network_speed_test.html
+https://limjunho.github.io/2020/09/02/Network-Speed-Test.html
